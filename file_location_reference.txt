@@ -1,0 +1,17 @@
+This document describes the file paths for all relevant graphics inside the SoS:ToT ROM.
+Utilize this when manually replacing files inside the RomFS file system.
+
+### Character Talking Portraits
+Base directory: /romfs/Layout/BustUp
+----------
+ch_06 - Ludus
+ch_40_04 - Ludus's child, baby
+ch_41_04 - Ludus's child, boy
+ch_42_04 - Ludus's child, girl
+
+
+
+### Character Marriage CGs
+Base directory: /romfs/Layout/Still
+----------
+Group_Craftman - Ludus
